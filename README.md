@@ -8,7 +8,7 @@ Step 1:
     Open an anaconda command prompt tab and navigate to the CPET347_Project1 folder.
 
 Step 2:
-    Make sure you have python, opencv, and numpy installed. Type 'pip install opencv-python opencv-contrib-python' and 'pip install numpy==2.2.0' in the command window to install.
+    Make sure you have python, opencv, and numpy installed. Type 'pip install opencv-python opencv-contrib-python' and 'pip install numpy==2.1.0' in the command window to install.
 
 Step 3:
     Run 'python frameCapture.py' to take 15-20 pictures of your 10x7 chessboard using your external webcam.
