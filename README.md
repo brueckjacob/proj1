@@ -14,10 +14,10 @@ Step 3:
     Run 'python frameCapture.py' to take 15-20 pictures of your 10x7 chessboard using your external webcam.
 
 Step 4:
-    run 'python proj1.py' to run the camera calibration, fix distortion, read april tags and RMSE functions.
+    R`un 'python proj1.py' to run the camera calibration, fix distortion, read april tags and RMSE functions.
 
 Step 5:
-    Set up your 4 17.2 cm April Tags in a 2x2 square with the centers being 25 cm apart.
+    Set up your 4 printed 17.2 cm April Tags in a 2x2 square with the centers being 25 cm apart.
 
 Step 6:
     Point your webcam at the April Tags to get the values and place an object of known measurements in the scene. Click on both sides of the object to get the measurement for it.
