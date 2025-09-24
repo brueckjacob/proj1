@@ -5,7 +5,7 @@ General Information:
     This project aims to introduce common fundamental practices of 3d computer vision using opencv and python. We are to calibrate a camera, set up a real world scene using april tags and measure real world objects.
 
 Step 1:
-    Open an anaconda command propt tab and navigate to the CPET347_Project1 folder.
+    Open an anaconda command prompt tab and navigate to the CPET347_Project1 folder.
 
 Step 2:
     Make sure you have python, opencv, and numpy installed. Type 'pip install opencv-python opencv-contrib-python' and 'pip install numpy==2.2.0' in the command window to install.
